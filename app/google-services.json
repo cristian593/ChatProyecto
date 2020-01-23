@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1074875701190",
+    "firebase_url": "https://chatproyecto-40012.firebaseio.com",
+    "project_id": "chatproyecto-40012",
+    "storage_bucket": "chatproyecto-40012.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074875701190:android:961cda9ea76d0a111484c7",
+        "android_client_info": {
+          "package_name": "com.zumba.chatproyecto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074875701190-h18gfsl0np2dtj6t31v2t0fco2tf1enh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zumba.chatproyecto",
+            "certificate_hash": "852914dbddfc1b7ae50564750e496ad70d92dea1"
+          }
+        },
+        {
+          "client_id": "1074875701190-pvshtanr2fjng2h2h9o76djqe5666unh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9bggiUpqvVjyxYmNwinIm5oO1fUYLOJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074875701190-pvshtanr2fjng2h2h9o76djqe5666unh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
